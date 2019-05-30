@@ -10,7 +10,10 @@ Last weekend at FooCamp, I co-hosted a session titled “The End of the World: W
 
 先週のFooCampで、私は「世界の終わり：インターネットは国家を破壊するのか、それとも国家はインターネットを破壊するのか」という題のセッションを共催しました。
 今回は私がセッションを始めたときに思いついたアイデアと、私がこれまでに考えてきたこと、そしてFooCampの他の参加者との会話中に共有した考えについて話そうと思います。
-混乱を避けるために、次の二つのことをはっきりさせてください。a）これから話すトピックは、これまで一度も提起されたことがない、全く新しいものであるというわけではありません。ただ、この記事をもとに有用な意見と議論が生み出せればと思っています。 b）ここで出される結論が2つか3つしかないとは思っていません。この面白い考え方を通して、セッションでの議論はとても良いものになりました。
+混乱を避けるために、次の二つのことをはっきりさせてください。
+
+a）これから話すトピックは、これまで一度も提起されたことがない、全く新しいものであるというわけではありません。ただ、この記事をもとに有用な意見と議論が生み出せればと思っています。
+b）ここで出される結論が2つか3つしかないとは思っていません。この面白い考え方を通して、セッションでの議論はとても良いものになりました。
 
 ## Introduction
 
@@ -22,13 +25,11 @@ A while back, I thought I saw a tweet from [Evgeny Morozov](https://twitter.com/
 
 ## Technology and Change
 
-Most often, when people think of the printing press, they think of its impact on the Catholic Church – about how it enabled Martin Luther’s complaints to go viral and how the localization of the Bible cut out the need of ~~the middle man~~ the priest to connect and engage with God. 
-
-But if the printing press undermined the Catholic Church, it had the opposite impact on the state. To be fair, heads of state took a beating (see French Revolution et al.), but the state itself was nimbler and made good use of the technology. Indeed, it is worth noting that the modern notion of the nation state was not conceivable without the printing press. The press transformed the state – scaling up its capacity to demand control over loyalty from citizens and mobilize resources which, in turn, had an impact on how states related (and fought) with one another.
+Most often, when people think of the printing press, they think of its impact on the Catholic Church – about how it enabled Martin Luther’s complaints to go viral and how the localization of the Bible cut out the need of ~~the middle man~~ the priest to connect and engage with God. But if the printing press undermined the Catholic Church, it had the opposite impact on the state. To be fair, heads of state took a beating (see French Revolution et al.), but the state itself was nimbler and made good use of the technology. Indeed, it is worth noting that the modern notion of the nation state was not conceivable without the printing press. The press transformed the state – scaling up its capacity to demand control over loyalty from citizens and mobilize resources which, in turn, had an impact on how states related (and fought) with one another.
 
 ## テクノロジーと変化
 
-私たちが印刷機と印刷技術について考えるとき、多くの人はカトリック教会への影響について考えるでしょう。 マルティン・ルターの[提題](https://ja.wikipedia.org/wiki/95%E3%81%8B%E6%9D%A1%E3%81%AE%E8%AB%96%E9%A1%8C)が印刷のおかげでどのようにして広まったか、聖書に書かれている教えが印刷によって~~仲介人~~聖職者を必要とせずに地方に分散されたか、などです。逆に、もし印刷技術がカトリック教会にマイナスの影響を与えていたら、もしかしたら国家には違った影響を与えていたでしょう。実際、印刷技術によって国家のリーダーたちはひどい目にあいました。フランス革命等が良い例です。しかし、国家自体は実に呑み込みが早く、印刷技術を上手く使いました。このように、近代国家が印刷機なしにありえなかったことを考えると、印刷技術の影響力は注目に値します。特に、印刷機を使ったマスコミは国家を大きく変えました。国家が国民からの忠誠心を求めやすくし、他の国家と貿易や戦争をする人的資源などを集めるために大きな影響を与えました。
+私たちが印刷機と印刷技術について考えるとき、多くの人はカトリック教会への影響について考えるでしょう。 マルティン・ルターの[提題](https://ja.wikipedia.org/wiki/95%E3%81%8B%E6%9D%A1%E3%81%AE%E8%AB%96%E9%A1%8C)が印刷のおかげでどのようにして広まったか、聖書に書かれている教えが印刷によって~~仲介人~~聖職者を必要とせずに地方に分散されたか、などです。逆に、もし印刷技術がカトリック教会にマイナスの影響を与えていたら、もしかしたら国家には違った影響を与えていたでしょう。実際、印刷技術によって国家のリーダーたちはひどい目にあいました。フランス革命等が良い例です。しかし、国家自体は実に柔軟に対応し印刷技術を上手く使いました。近代国家が印刷機なしにありえなかったことを考えると、印刷技術の影響力は注目に値します。特に、印刷機を使ったマスコミは国家を大きく変えました。たとえば、国家が国民からの忠誠心を求めやすくし、他の国家と貿易や戦争をする人的資源などを集めるなど、多大な影響を与えました。
 
 In his seminal book [Imagined Communities](http://www.amazon.ca/gp/product/1844670864/ref=as_li_ss_tl?ie=UTF8&tag=eavesca-20&linkCode=as2&camp=15121&creative=390961&creativeASIN=1844670864), Benedict Anderson outlined how the printing press allowed the state to standardize language and history. In other words, someone growing up in Marseilles 100 years before the printing press probably had a very different sense of history and spoke a markedly different dialect of French than someone living in Paris during the same period. But the printing press (and more specifically, those who controlled it) allowed a dominant discourse to emerge (in this case, likely the Parisian one). Think standardized dictionaries, school textbooks and curricula, to say nothing of history and entertainment. This caused people who might never have met to share a common imagined history, language and discourse. Do not underestimate the impact this had on people’s identity. As this wonderful quote from the book states: “Ultimately it is this fraternity that makes it possible, over the past two centuries, for so many millions of people, not so much to kill, as willingly to die for such limited imaginings.” In other words, states could now fully dispense with feudal middle managers and harness the power of larger swaths of population directly – a population that might never actually meet, but could nonetheless feel connected to one another. The printing press thus helped create the modern nation state by providing a form of tribalism at scale: what we now call nationalism. This was, in turn, an important ingredient for the wars that dominated the late 19th and early 20th century – think World War I and World War II. This isn’t to say without the printing press, you don’t get war – we know that isn’t true – but the type of total war between 20th century nation states does have a direct line to the printing press.
 
@@ -36,7 +37,7 @@ In his seminal book [Imagined Communities](http://www.amazon.ca/gp/product/18446
 
 「想像の共同体」の中からとても気に入っている部分を引用します：「極端にいうと、これは愛国心です。愛国心が、過去2世紀にもわたって、印刷技術によって伝えられた限られた想像の産物のために、他人を殺すだけではなく、喜んで自分自身の命を捧げることのできるような何百万人もの人々を生み出してきました。」
 
-印刷技術によって、国家は封建社会における地域の領主のような中間層を完全に省略し、より多くの人々の力を直接利用することができました。具体的にいうと、国家の支配者が直接出会うことがなくても、お互いにつながりを感じている地方の住民です。このように、印刷は部族主義のようなものを提供することによって近代国家の創設を助けました。今で言うところのナショナリズム（愛国心、国家主義）です。国家主義は19世紀後半と20世紀初頭を支配した戦争の大きな要素でした。第一次世界大戦と第二次世界大戦を考えてみてください。印刷機がなかったら戦争になっていなかった、というわけではないことは私たちみんなが知っていますよね。しかし、20世紀の国々の間で起こった戦争は、印刷が確実に大きな影響を与えています。
+印刷技術によって、国家は封建社会における地域の領主のような中間層を完全に省略し、より多くの人々の力を直接利用することができました。具体的にいうと、国家の支配者が直接出会うことがなくてもお互いにつながりを感じているような、地方の住民です。このように、印刷は部族主義のようなものを提供することによって近代国家の創設を助けました。今で言うところのナショナリズム（愛国心、国家主義）です。国家主義は19世紀後半と20世紀初頭を支配した戦争の大きな要素でした。第一次世界大戦と第二次世界大戦を考えてみてください。印刷機がなかったら戦争になっていなかった、というわけではないことは私たちみんなが知っていますよね。しかし、20世紀の国々の間で起こった戦争は、印刷が確実に大きな影響を与えています。
 
 So yes, the techno-utopian world of: printing press -> Renaissance -> iPad is not particularly accurate.
 
