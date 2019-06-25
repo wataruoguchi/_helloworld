@@ -3,6 +3,7 @@
 ## 成果
 
 ### June 2019
+- #en #report #レポート [Civic hackers in north-east Asia came together in Okinawa, Japan | Nao Myoshu](https://medium.com/@Nao_Kobe/civic-hackers-in-north-east-asia-came-together-in-okinawa-japan-126cf173de16)
 - #en #report #レポート [How to connect global civic-tech communities| T4NT Handover | Nao Myoshu](https://medium.com/@Nao_Kobe/how-to-connect-global-civic-tech-communities-t4nt-handover-648ade2a0666)
 - #ja #translation #翻訳 [Civic Tech Weekly April 30th: 香港の建築業界の透明化 | Nao Myoshu](https://medium.com/@Nao_Kobe/civic-tech-weekly-april-30th-%E9%A6%99%E6%B8%AF%E3%81%AE%E5%BB%BA%E7%AF%89%E6%A5%AD%E7%95%8C%E3%81%AE%E9%80%8F%E6%98%8E%E5%8C%96-a05b9ea1f38b)
 
